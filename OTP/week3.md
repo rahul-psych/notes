@@ -1,10 +1,39 @@
+<!-- TOC -->
+# TOC
+- [Looking for problems to solve](#looking-for-problems-to-solve)
+    - [Choice quotes](#choice-quotes)
+- [Resources](#resources)
+    - [Horizon scanning documents](#horizon-scanning-documents)
+    - [Alleywatch](#alleywatch)
+    - [Trend-watching](#trend-watching)
+    - [Trendhunter](#trendhunter)
+    - [Web-hunting for ideas](#web-hunting-for-ideas)
+    - [Meta-problems & problem stack](#meta-problems--problem-stack)
+    - [The Art of Trend-spotting in 4 steps](#the-art-of-trend-spotting-in-4-steps)
+        - [Four step process](#four-step-process)
+    - [Introspective approach](#introspective-approach)
+        - [Principle](#principle)
+            - [Step 1: Define your sources of problems](#step-1-define-your-sources-of-problems)
+            - [Step 2: Set problem categories for each source of problems](#step-2-set-problem-categories-for-each-source-of-problems)
+            - [Step 3: Dig deep and discover your problems](#step-3-dig-deep-and-discover-your-problems)
+            - [Other approaches](#other-approaches)
+    - [The perfect customer problem](#the-perfect-customer-problem)
+        - [The Hair on Fire Problem](#the-hair-on-fire-problem)
+        - [The perfect customer problem](#the-perfect-customer-problem)
+    - [Trend Canvas](#trend-canvas)
+- [Digital transformation lab](#digital-transformation-lab)
+    - [Panelists](#panelists)
+    - [Links](#links)
+
+<!-- /TOC -->
+
 # Looking for problems to solve
+
 ## Choice quotes
 > One **“red flag”** in a business plan is a missing competitive analysis section or a short paragraph that essentially says, “this product has no competition.” My reaction is, if there is no competition, then there is no market demand for your product, so why are you building it?
 
-
-
 # Resources
+
 ## Horizon scanning documents
 [Horizon scanning reports](https://acola.org/programs/horizon-scanning-series/) comissioned by [Australia's chief scientist](https://www.chiefscientist.gov.au/advice-to-government/horizon-scanning)
 
@@ -45,6 +74,7 @@ There are also tools that can help make this more structured: have a look at Ans
 
 ## The Art of Trend-spotting in 4 steps
 [Source](https://www.gartner.com/smarterwithgartner/master-the-art-of-trendspotting-in-4-steps/)
+
 ### Four step process
 1. Assess the impact of a trend: across industries and geographies - does it offer new business opportunities or negatively impacts existing business models; changes how people work or interact with your organization and its products; or disrupts the vendor market by undermining existing vendors or creating new markets
 2. Evaluate Trend maturity: Tech evolves from emerging, growth and mainstream phases so need to separate hype from reality. Adoption need depends on cost and risk of adoption, new capabilities trend offers and security and regulation implications of the trend.
@@ -56,10 +86,12 @@ There are also tools that can help make this more structured: have a look at Ans
 
 ## Introspective approach
 [Source](https://othmane.io/writing/how_to_find_problems_to_solve) 
+
 ### Principle
 Scratch your own itch - intimate understanding of pain points, def solving a real problem and will stick with it way longer. Have to be careful though as many of your own problems are boring, trivial or not powerful enough. 
 
 Suggested steps (use a kanban board):
+
 #### Step 1: Define your sources of problems
 * Past and current jobs : Create a list for each job you had as well as your current job, if any.
 * Own companies and startups : Create a list for every company or startup you started.
@@ -120,8 +152,10 @@ Perfect problem carries these four attributes:
 ![](pastedimages/2020-05-13-20-23-01.png)
 
 # Digital transformation lab
+
 ## Panelists
 ![Panelists](pastedimages/2020-05-05-15-53-00.png)
+
 ## Links
 [MakeZine website showing Covid-19 projects](https://makezine.com/tag/covid-19/)
 * Morse code teleconsult in 1874
